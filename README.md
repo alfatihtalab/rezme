@@ -1,8 +1,9 @@
 # Rezme AI Resume Builder
 AI-powered resume builder, skill highlighting, and templates generation.
 
-![phone-post](https://github.com/alfatihtalab/rezme/assets/35189369/5526d624-5a40-4ff5-912e-9d4ad0ad7bcb)
 
+
+![app-intro](https://github.com/alfatihtalab/rezme/assets/35189369/c4099740-a117-4fbf-9eeb-149fd08f3a19)
 
 
 ## Description:
@@ -36,6 +37,7 @@ See also:
 - Docx to PDF. 
 - Fastapi
 
+![play-graphic](https://github.com/alfatihtalab/rezme/assets/35189369/bbdf32a1-ad9c-41a5-850d-546c11ab920d)
 
 ## For more info
 
