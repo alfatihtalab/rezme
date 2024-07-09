@@ -21,7 +21,7 @@ See also:
 - User Profile.
 - Material Design 3.
 - User-Friendly Interface.
-- Gemini AI-Assisted
+- AI-Assisted
 - Template Generation.
 
 
